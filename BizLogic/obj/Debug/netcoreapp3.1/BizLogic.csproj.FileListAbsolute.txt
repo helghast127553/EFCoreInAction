@@ -1,0 +1,9 @@
+C:\Users\tnghia\source\repos\EFCoreInAction\BizLogic\bin\Debug\netcoreapp3.1\BizLogic.deps.json
+C:\Users\tnghia\source\repos\EFCoreInAction\BizLogic\bin\Debug\netcoreapp3.1\BizLogic.dll
+C:\Users\tnghia\source\repos\EFCoreInAction\BizLogic\bin\Debug\netcoreapp3.1\BizLogic.pdb
+C:\Users\tnghia\source\repos\EFCoreInAction\BizLogic\obj\Debug\netcoreapp3.1\BizLogic.csprojAssemblyReference.cache
+C:\Users\tnghia\source\repos\EFCoreInAction\BizLogic\obj\Debug\netcoreapp3.1\BizLogic.AssemblyInfoInputs.cache
+C:\Users\tnghia\source\repos\EFCoreInAction\BizLogic\obj\Debug\netcoreapp3.1\BizLogic.AssemblyInfo.cs
+C:\Users\tnghia\source\repos\EFCoreInAction\BizLogic\obj\Debug\netcoreapp3.1\BizLogic.csproj.CoreCompileInputs.cache
+C:\Users\tnghia\source\repos\EFCoreInAction\BizLogic\obj\Debug\netcoreapp3.1\BizLogic.dll
+C:\Users\tnghia\source\repos\EFCoreInAction\BizLogic\obj\Debug\netcoreapp3.1\BizLogic.pdb

@@ -1,0 +1,9 @@
+C:\Users\tnghia\source\repos\EFCoreInAction\BizDbAccess\bin\Debug\netcoreapp3.1\BizDbAccess.deps.json
+C:\Users\tnghia\source\repos\EFCoreInAction\BizDbAccess\bin\Debug\netcoreapp3.1\BizDbAccess.dll
+C:\Users\tnghia\source\repos\EFCoreInAction\BizDbAccess\bin\Debug\netcoreapp3.1\BizDbAccess.pdb
+C:\Users\tnghia\source\repos\EFCoreInAction\BizDbAccess\obj\Debug\netcoreapp3.1\BizDbAccess.csprojAssemblyReference.cache
+C:\Users\tnghia\source\repos\EFCoreInAction\BizDbAccess\obj\Debug\netcoreapp3.1\BizDbAccess.AssemblyInfoInputs.cache
+C:\Users\tnghia\source\repos\EFCoreInAction\BizDbAccess\obj\Debug\netcoreapp3.1\BizDbAccess.AssemblyInfo.cs
+C:\Users\tnghia\source\repos\EFCoreInAction\BizDbAccess\obj\Debug\netcoreapp3.1\BizDbAccess.csproj.CoreCompileInputs.cache
+C:\Users\tnghia\source\repos\EFCoreInAction\BizDbAccess\obj\Debug\netcoreapp3.1\BizDbAccess.dll
+C:\Users\tnghia\source\repos\EFCoreInAction\BizDbAccess\obj\Debug\netcoreapp3.1\BizDbAccess.pdb
